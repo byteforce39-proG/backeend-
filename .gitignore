@@ -1,0 +1,7 @@
+.env
+.venv/
+backend/.venv/
+__pycache__/
+interviews.db
+interviews.db-shm
+interviews.db-wal
